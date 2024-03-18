@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Paytone One";
+}
+
+body {
+    background: rgba(20, 38, 48, 1);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+main {
+    height: 110vh;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+}
+
+.barra-cima {
+    background: rgba(9, 35, 50, 1);
+    width: 100%;
+}
+
+.conteudo {
+    color: #FFF;
+    margin: 20px;
+    max-inline-size: 85%;
+}
+
+.objetivo {
+    max-inline-size: 85%;
+}
+
+.information {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: rgba(9, 35, 50, 1);
+}
+
+#logo-escola {
+    width: 100px;
+}
+
+
+.texto {
+    position: relative;
+}
+
+.saibamais > a{
+    color: #FFF;
+    font-family: "Paytone One";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.saibamais a:hover {
+    text-shadow: 0 0 8px rgba(92, 254, 0, 1);
+}
+
+.material-estudo > a{
+    color: #FFF;
+    font-family: "Paytone One";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.material-estudo a:hover {
+    text-shadow: 0 0 8px rgba(92, 254, 0, 1);
+}
+
+
+.folha-redacao > a{
+    color: #FFF;
+    font-family: "Paytone One";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.folha-redacao a:hover {
+    text-shadow: 0 0 8px rgba(92, 254, 0, 1);
+}
+
+.rodape {
+    background-color: rgba(1, 150, 3, 1);
+    width: 100%;
+    position: fixed;
+    left: 0%;
+    bottom: 0%;
+    display: flex;
+    align-items: center;
+}
+
+.instagram {
+    margin: 10px;
+    margin-left: 20px;
+}
+
+.whatsap {
+    margin: 10px;
+    margin-left: 20px;
+}
+
+.drive {
+    margin: 10px;
+    margin-left: 20px;
+}
+
+.enviar > a{
+    transition: 1s;
+    color: #FFF;
+}
+
+.enviar a:hover {
+    color: rgba(1, 150, 3, 1);
+    text-shadow: 0 0 8px black;
+}
