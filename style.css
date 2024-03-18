@@ -17,6 +17,10 @@ main {
     height: 100vh;
 }
 
+header {
+    width: 100%;
+}
+
 .barra-cima {
     background: rgba(9, 35, 50, 1);
     width: 100%;
