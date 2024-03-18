@@ -16,6 +16,10 @@ main {
     height: 118vh;
 }
 
+header {
+    width: 100%;
+}
+
 footer {
     text-align: center;
     padding: 10px;
