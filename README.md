@@ -1,9 +1,8 @@
 # SITE DO PROJETO DE REDAÇÃO FOCO NO 1000
-  Esse é projeto de um site para o projeto de redação que é feito
-  na EEEP Dep Roberto Mesquita, em que os estudantes fazem suas
-  redações, e entregam para os corretores. Neste sentido, com esse
-  site, será mais rápido entregar as redações, e não será necessário
-  ser entregue apenas fisicamente.
+  Este é projeto de redação feito na EEEP Dep Roberto Mesquita, 
+  na qual os estudantes fazem sua produções textuais, e entregam para
+  os corretores. Neste sentido, com esse site, será mais rápido a correção
+  das redações, e assim não será necessário ser entregue apenas fisicamente.
 
   OBS.: O SITE AINDA ESTÁ EM DESENVOLVIMENTO
 
